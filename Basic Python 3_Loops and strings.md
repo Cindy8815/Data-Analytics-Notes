@@ -1,4 +1,4 @@
-# Annotated follow-along guide: Loops and strings
+# Basic Python 3 : Loops and strings
 
 This notebook contains the code used in the instructional videos from [Module 3: Loops and strings](https://www.coursera.org/learn/get-started-with-python/home/module/3).
 
@@ -611,4 +611,3 @@ for x in range(0, 101, 10):
     100 F |  37.78 C
 
 
-**Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
