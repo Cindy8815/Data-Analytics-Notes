@@ -5,9 +5,9 @@ Jupyter Notebook is an open-source web application for creating and sharing docu
 -Installing Jupter with pip
  open: "Command Prompt"
  type: pip install -- upgrade pip   (update pip)
- type: pip install jupter
+ type: pip install jupyter
  -start the notebook server
- type: jupter notebook  (in Command Prompt) (by default,http://localhost:8888)
+ type: jupyter notebook  (in Command Prompt) (by default,http://localhost:8888)
  click: File/new/Notebook 
  
  
