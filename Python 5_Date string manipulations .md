@@ -1,4 +1,4 @@
-# Annotated follow-along guide: Date string manipulations with Python
+# Date string manipulations with Python
 
 This notebook contains the code used in the following instructional video: [Date string manipulations with Python](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/lecture/0GjvK/date-string-manipulations-with-python)
 
@@ -625,6 +625,6 @@ plt.show()
 
 ## Conclusion
 
-**Congratulations!** You've completed this lab. You now understand how to manipulate date strings in Python and should be able to start using it on your own datasets.
+**Congratulations!** You now understand how to manipulate date strings in Python and should be able to start using it on your own datasets.
 
 You may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
